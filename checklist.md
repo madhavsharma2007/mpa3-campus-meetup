@@ -1,0 +1,4 @@
+# Event Prepration Checklist
+[ ] BOOK A ROOM
+[ ] ANNOUNCE THE EVENT
+[ ] PREPARE REGISTRATION
